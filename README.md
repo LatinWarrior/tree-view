@@ -1,6 +1,6 @@
 # TreeView
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3. The version of Angular is 7.1.4
 
 ## Development server
 
